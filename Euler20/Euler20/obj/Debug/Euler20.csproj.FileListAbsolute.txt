@@ -1,0 +1,8 @@
+H:\IT V-T\Csharp\Euler20\Euler20\bin\Debug\Euler20.exe.config
+H:\IT V-T\Csharp\Euler20\Euler20\obj\Debug\Euler20.csprojResolveAssemblyReference.cache
+H:\IT V-T\Csharp\Euler20\Euler20\obj\Debug\Euler20.Properties.Resources.resources
+H:\IT V-T\Csharp\Euler20\Euler20\obj\Debug\Euler20.csproj.GenerateResource.Cache
+H:\IT V-T\Csharp\Euler20\Euler20\bin\Debug\Euler20.exe
+H:\IT V-T\Csharp\Euler20\Euler20\bin\Debug\Euler20.pdb
+H:\IT V-T\Csharp\Euler20\Euler20\obj\Debug\Euler20.exe
+H:\IT V-T\Csharp\Euler20\Euler20\obj\Debug\Euler20.pdb

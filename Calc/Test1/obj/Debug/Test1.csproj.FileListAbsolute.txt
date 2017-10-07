@@ -1,0 +1,9 @@
+H:\IT V-T\Csharp\Test1\Test1\bin\Debug\Test1.exe.config
+H:\IT V-T\Csharp\Test1\Test1\bin\Debug\Test1.exe
+H:\IT V-T\Csharp\Test1\Test1\bin\Debug\Test1.pdb
+H:\IT V-T\Csharp\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+H:\IT V-T\Csharp\Test1\Test1\obj\Debug\Test1.Properties.Resources.resources
+H:\IT V-T\Csharp\Test1\Test1\obj\Debug\Test1.csproj.GenerateResource.Cache
+H:\IT V-T\Csharp\Test1\Test1\obj\Debug\Test1.exe
+H:\IT V-T\Csharp\Test1\Test1\obj\Debug\Test1.pdb
+H:\IT V-T\Csharp\Test1\Test1\obj\Debug\Test1.Form1.resources
